@@ -8,8 +8,9 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Hex48 Protoyping Board")
-		(date "2023-08-28")
+		(title "Hex48 Prototyping Board")
+		(date "2024-10-10")
+		(company "John Honniball")
 	)
 	(layers
 		(0 "F.Cu" signal)
