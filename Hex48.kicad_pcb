@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Hex48 Prototyping Board")
-		(date "2024-10-10")
-		(rev "0.2")
+		(date "2024-10-13")
+		(rev "1.0")
 		(company "John Honniball")
 		(comment 1 "Hexagonal DIL breadboard")
 	)
