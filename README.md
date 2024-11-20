@@ -3,9 +3,6 @@
 PCB design for a hexagonal prototyping board capable of holding DIL chips with
 up to 48 pins.
 
-> [!WARNING]
-> Very much a work-in-progress and not tested by making a PCB yet.
-
 ## The Problem ##
 
 Everybody has prototyping PCBs in rectangular form, but what other shapes tesselate well?
@@ -33,4 +30,9 @@ To install it on Ubuntu Linux:
 I'm using Ubuntu 22.04 LTS which would give me the very outdated KiCad V6.0 by default.
 As I write this, the latest KiCad is V8.0.5,
 which is a big upgrade from the V6.0 which I started with.
+
+## PCB Photo ##
+Photo of the PCB, as manufactured.
+
+![PCB photo](Hex48_photo1.jpg "PCB photo")
 
