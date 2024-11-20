@@ -36,3 +36,7 @@ Photo of the PCB, as manufactured.
 
 ![PCB photo](Hex48_photo1.jpg "PCB photo")
 
+PCB with sockets and headers soldered on, mounted on a base made out of slate.
+
+![Populated PCB photo](Hex48_photo2.jpg "Populated PCB photo")
+
