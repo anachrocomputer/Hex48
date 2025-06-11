@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/CAD-KiCAD_8-green "CAD:KiCAD 8")
+
 # Hex48 #
 
 PCB design for a hexagonal prototyping board capable of holding DIL chips with
